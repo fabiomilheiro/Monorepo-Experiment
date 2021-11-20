@@ -1,10 +1,10 @@
 {
   "name": "input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "module": "src/index.js",
   "scripts": {
-      "bootstrap": "lerna bootstrap --use-workspaces"
+    "bootstrap": "lerna bootstrap --use-workspaces"
   },
   "dependencies": {
     "react": "latest",
